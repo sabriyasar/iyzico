@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'opensans-regular';
+					src: url('/iyzico/wp-content/uploads/useanyfont/3116OpenSans-Regular.woff2') format('woff2'),
+						url('/iyzico/wp-content/uploads/useanyfont/3116OpenSans-Regular.woff') format('woff');
+					font-display: auto;
+				}
+
+				.opensans-regular{font-family: 'opensans-regular' !important;}
+
+		
